@@ -1,7 +1,7 @@
 # COBWEB-QAwAT
 # Quality Assurance workflow Authoring Tool (QAwAT)
 
-QAwAT uses a workflow authoring tool for constructing geoprocessing workflows comprised of Open Geospatial Consortium Web Processing Services. For QAwAT the processes are quality controls (QC) and a workflows constitutes the QA whole process.
+QAwAT uses a workflow authoring tool for constructing geoprocessing workflows comprised of Open Geospatial Consortium Web Processing Services ([wAT](https://github.com/cobweb-eu/workflow-at)). For QAwAT the processes are quality controls (QC) and a workflows constitutes the QA whole process.
 
 ## Description
 
