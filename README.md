@@ -9,7 +9,7 @@ This repository contains the code for a tool to create compose workflows compris
 
 The tool is based on a modified client of the JBOSS jBPM framework. The tool can be used to author BPMN documents using an Eclipse plugin or within a web-based envrionment. The BPMN documents define a workflow which is executed by the jBPM engine. 
 
-[![Demo Workflow Japanese Knotweed](http://www.nottingham.ac.uk/~psxjr/images/jkw_screenshot.png)](https://drive.google.com/open?id=0Byw3xiwycSF3cksxSEF5Z0NnX2c)
+[![Demo Workflow Japanese Knotweed](https://drive.google.com/open?id=0B5aI-FR6zYtvUWtEcW9VdzJqWXc)](https://drive.google.com/open?id=0B5aI-FR6zYtvaTVsalRuekpieEE)
 
 ## Credits
 
